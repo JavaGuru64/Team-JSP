@@ -1,0 +1,117 @@
+body {
+	background: #ccc;
+	color: #333;
+}
+
+.undecorate{
+    
+}
+
+.container_12 {
+	background-color: #fff;
+	/*
+        background-image: url(12_col.gif);
+	background-repeat: repeat-y;
+	margin-bottom: 20px;
+	*/
+}
+
+#login{
+    margin: 25px;
+}
+
+#head{
+    font-size: 48px;
+}
+
+.header {
+        background-color: #490000;
+	border-bottom: 3px black solid;
+	padding: 10px 20px 100px 20px;
+	margin-bottom: 20px; 
+        color: white;
+}
+
+.header_mentor {
+    height: 75px;
+    background-color: #490000;
+    border-bottom: 3px black solid;
+    padding: 10px 20px 50px 20px;
+    margin-bottom: 20px; 
+    color: white;
+}
+
+#maincontent {
+	padding: 0 20px;
+        /*border: thin solid;*/
+}
+
+#tablewithborder{
+        border: thin solid;
+    
+}
+#aside {
+
+}
+
+#footer{
+	background-color: #490000;
+	color: white;
+	border-top: 3px black solid; 
+	padding: 10px 0 80px 0;
+}
+
+#footer_mentor {
+	background-color: #490000;
+	color: white;
+	border-top: 3px black solid; 
+	padding: 10px 0 20px 0;
+}
+
+a {
+	color: #37E;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #87C;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+p {
+	/*
+	border: 1px solid #777;
+	*/
+        vertical-align: top;
+}
+
+.center {
+	text-align: center;
+}
+
+#mentorInfo {
+        border: solid thin;
+	padding: 10px 5px 150px 0px;
+        vertical-align: top;
+        margin: 10px 5px 10px 5px;
+}
+
+#expertise {
+
+}
+
+#contact {
+    
+}
+
+#mentorname{
+    
+}
+
+img {
+    float: auto;
+}
